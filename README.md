@@ -19,14 +19,13 @@ Welcome to the IPL Data Analysis Project repository! This project is inspired by
    ```bash
    git clone https://github.com/your-username/ipl-data-analysis.git
 
-Contributing
+## Contributing
 If you'd like to contribute to this project by enhancing DAX formulas or adding new features, please create a pull request.
 
-License
-This project is open-source and available under the MIT License.
-
-Acknowledgments
+## Acknowledgments
 Thanks to the original YouTube tutorial for inspiration.
+
+
 Get in Touch
 Feel free to connect with me on LinkedIn here to discuss data analysis and collaborate on exciting projects.
 
