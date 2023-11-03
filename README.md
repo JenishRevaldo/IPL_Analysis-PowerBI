@@ -27,6 +27,7 @@ Thanks to the original YouTube tutorial for inspiration.
 
 <br>
 Get in Touch<br>
-Feel free to connect with me on LinkedIn here to discuss data analysis and collaborate on exciting projects.
+Feel free to connect with me on LinkedIn to discuss data analysis and collaborate on exciting projects.
 
+<br>
 Enjoy exploring the IPL Data Analysis Project and happy data crunching!
