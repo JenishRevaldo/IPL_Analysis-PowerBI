@@ -25,9 +25,9 @@ If you'd like to contribute to this project by enhancing DAX formulas or adding 
 ## Acknowledgments
 Thanks to the original YouTube tutorial for inspiration.
 
-<br>
-Get in Touch<br>
+
+Get in Touch
 Feel free to connect with me on LinkedIn to discuss data analysis and collaborate on exciting projects.
 
-<br>
+
 Enjoy exploring the IPL Data Analysis Project and happy data crunching!
